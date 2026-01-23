@@ -1,0 +1,2 @@
+#Resolving merge upstream issues  
+git branch --unset-upstream
