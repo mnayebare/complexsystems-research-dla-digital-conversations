@@ -1,0 +1,2 @@
+# If that doesn't work, try with recursive flag
+git rm --cached -r -f complexsysmtem-research-dla-digital-conversations
